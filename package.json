@@ -1,0 +1,11 @@
+{
+  "name": "ttl-poc",
+  "version": "1.0.0",
+  "description": "This project contains the proof of concept for the use case of TTL(Time to live) caching in javascript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hardik Sharma",
+  "license": "ISC"
+}
